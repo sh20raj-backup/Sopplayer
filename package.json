@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SH20RAJ/Sopplayer.git"
+    "url": "git+https://github.com/sh20raj-backup/Sopplayer.git"
   },
   "keywords": [
     "video-player",
@@ -53,9 +53,9 @@
   "author": "SH20RAJ (https://github.com/SH20RAJ)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SH20RAJ/Sopplayer/issues"
+    "url": "https://github.com/sh20raj-backup/Sopplayer/issues"
   },
-  "homepage": "https://sh20raj.github.io/Sopplayer/",
+  "homepage": "https://sh20raj-backup.github.io/Sopplayer/",
   "devDependencies": {
     "clean-css": "^5.3.3",
     "esbuild": "^0.28.2"

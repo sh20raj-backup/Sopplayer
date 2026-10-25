@@ -66,10 +66,10 @@ This major release transforms Sopplayer from a monolithic Video.js skin into an 
 
 #### Backwards Compatibility Guarantee
 - Maintained 100% backwards compatibility for existing CDN URLs:
-  - `cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/sopplayer.js`
-  - `cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/sopplayer.min.js`
-  - `cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/sopplayer.css`
-  - `cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/sopplayer.min.css`
+  - `cdn.jsdelivr.net/gh/sh20raj-backup/Sopplayer/sopplayer.js`
+  - `cdn.jsdelivr.net/gh/sh20raj-backup/Sopplayer/sopplayer.min.js`
+  - `cdn.jsdelivr.net/gh/sh20raj-backup/Sopplayer/sopplayer.css`
+  - `cdn.jsdelivr.net/gh/sh20raj-backup/Sopplayer/sopplayer.min.css`
 - Legacy `<video class="sopplayer" data-setup="...">` tags automatically initialize.
 - Global `window.videojs` and `window.sopplayer` methods preserved via `v1Adapter.js`.
 

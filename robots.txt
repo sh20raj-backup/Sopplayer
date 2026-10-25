@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sh20raj.github.io/Sopplayer/sitemap.xml
+Sitemap: https://sh20raj-backup.github.io/Sopplayer/sitemap.xml

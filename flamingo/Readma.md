@@ -4,10 +4,10 @@ Documentation Video :- [https://www.youtube.com/watch?v=DOxtPWfKWUY](https://www
 
 Demo Website :- https://sopplayer.sh20raj.repl.co/flamingo
 
-View on Repl.it :- https://replit.com/@SH20RAJ/SopPlayer#flamingo
+View on Repl.it :- https://replit.com/@sh20raj-backup/Sopplayer#flamingo
 <center>
 
-[GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo)
+[GitHub](https://github.com/sh20raj-backup/Sopplayer/tree/main/flamingo)
 
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu0stgqfkzq1j2kc5qvb.png"/>
 </center>
@@ -32,7 +32,7 @@ Steps :-
 ---
 **HERE IS THE JAVASCRIPT CDN**
 ```
-<script src="https://cdn.jsdelivr.net/gh/SH20RAJ/Sopplayer/flamingo/sp-flamingo.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/sh20raj-backup/Sopplayer/flamingo/sp-flamingo.min.js"></script>
 <!--Here is the JavaScript Library-->
 ```
 
@@ -67,7 +67,7 @@ Here you have completed your Sopplayer-Flamingo Intgretion.
       <!--Use class="sopplayer" and data-setup="{}" -->
       <source src="sample.mp4" type="video/mp4" />
     </video>
-    <script src="https://cdn.jsdelivr.net/gh//SH20RAJ/Sopplayer/flamingo/sp-flamingo.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh//sh20raj-backup/Sopplayer/flamingo/sp-flamingo.min.js"></script>
     <!--Here is the JavaScript Library-->
 </center>
 </body>
@@ -76,7 +76,7 @@ Here you have completed your Sopplayer-Flamingo Intgretion.
 ```
 
 <center>
-Visit [GitHub](https://github.com/SH20RAJ/Sopplayer/tree/main/flamingo) 
+Visit [GitHub](https://github.com/sh20raj-backup/Sopplayer/tree/main/flamingo) 
  View [Demo](https://sopplayer.sh20raj.repl.co/flamingo/)
 
 See Articles :- 
